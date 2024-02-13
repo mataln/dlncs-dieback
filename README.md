@@ -1,4 +1,4 @@
-# Minimum working example to replicate results of "Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation"\
+# Minimum working example to replicate results of "Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation"
 
 
 Important files in this repository:\
